@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-05-09T10:54:09 CDT" name="Default suite" finished-at="2021-05-09T10:54:46 CDT" duration-ms="36880">
+  <suite started-at="2021-05-10T08:54:23 CDT" name="Default suite" finished-at="2021-05-10T08:54:53 CDT" duration-ms="29974">
     <groups>
     </groups>
-    <test started-at="2021-05-09T10:54:09 CDT" name="Default test" finished-at="2021-05-09T10:54:46 CDT" duration-ms="36880">
+    <test started-at="2021-05-10T08:54:23 CDT" name="Default test" finished-at="2021-05-10T08:54:53 CDT" duration-ms="29974">
       <class name="variousConcept.LearnTestNG">
-        <test-method is-config="true" signature="init()[pri:0, instance:variousConcept.LearnTestNG@7671cb68]" started-at="2021-05-09T10:54:09 CDT" name="init" finished-at="2021-05-09T10:54:14 CDT" duration-ms="5032" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:variousConcept.LearnTestNG@7671cb68]" started-at="2021-05-10T08:54:23 CDT" name="init" finished-at="2021-05-10T08:54:28 CDT" duration-ms="4900" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="loginTest()[pri:1, instance:variousConcept.LearnTestNG@7671cb68]" started-at="2021-05-09T10:54:14 CDT" name="loginTest" finished-at="2021-05-09T10:54:26 CDT" duration-ms="12470" status="PASS">
+        <test-method signature="loginTest()[pri:1, instance:variousConcept.LearnTestNG@7671cb68]" started-at="2021-05-10T08:54:28 CDT" name="loginTest" finished-at="2021-05-10T08:54:37 CDT" duration-ms="8998" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="init()[pri:0, instance:variousConcept.LearnTestNG@7671cb68]" started-at="2021-05-09T10:54:26 CDT" name="init" finished-at="2021-05-09T10:54:32 CDT" duration-ms="5939" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:variousConcept.LearnTestNG@7671cb68]" started-at="2021-05-10T08:54:37 CDT" name="init" finished-at="2021-05-10T08:54:41 CDT" duration-ms="4112" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="addCustomer()[pri:2, instance:variousConcept.LearnTestNG@7671cb68]" started-at="2021-05-09T10:54:32 CDT" name="addCustomer" finished-at="2021-05-09T10:54:46 CDT" duration-ms="13403" status="PASS">
+        <test-method signature="addCustomer()[pri:2, instance:variousConcept.LearnTestNG@7671cb68]" started-at="2021-05-10T08:54:41 CDT" name="addCustomer" finished-at="2021-05-10T08:54:53 CDT" duration-ms="11928" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addCustomer -->
